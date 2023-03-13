@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am an unemployed college student
+- 🔭 I am a college student looking for a job
 - 🌱 I’m currently learning Frontend related courses
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Frontend internship opportunities
