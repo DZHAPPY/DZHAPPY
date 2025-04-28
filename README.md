@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a fresh graduate
-- 🌱 I’m currently learning Frontend related courses
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Frontend internship opportunities
-- 📫 How to reach me: ldzttkx@qq.com
+
 
 
 <!--
@@ -20,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ldzttkx@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I am a fresh graduate
+- 🌱 I’m currently learning Frontend related courses
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Frontend internship opportunities
+- 📫 How to reach me: ldzttkx@qq.com
+
 -->
